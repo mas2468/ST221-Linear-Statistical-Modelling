@@ -68,7 +68,7 @@ plot(slr.dia4,1)
 
 # f)
 
-# penis penis
+#
 
 plot(dia$weight,dia$price)
 plot(dia$weight,log_price)
