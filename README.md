@@ -1,1 +1,3 @@
 # ST221-Linear-Statistical-Modelling
+
+This repository contains all the work I did as part of a module in my second year of university, called Linear Statistical Modelling. The module's learning objectives were to learn about different statistical models and use R to solve problems in an applied context. I completed 2 assignments for this module and in each assignment folder you will find a pdf of the handout we were given which detailed the tasks to carry out, the R code that was used to compute things when required, a report I had to produce (in the form of a pdf file and a word document) and a corrected version of the report. You will also find accompanying screenshots of things related to the assignment, that needed to be added to the report.
